@@ -1,6 +1,7 @@
 # Internship_Summer_2024
 
-This repository contains the projects and tools I developed during my **Summer 2024 Internship**. The projects primarily focus on **networking**, including tools for working with **TCP, UDP, IP addressing, subnet masking, and network scanning**.
+This repository contains the projects and tools I developed during my **Summer 2024 Internship**.
+During my summer 2024 internship I learned the basics of networking and developed projects and tools primarily focus on **networking**, including tools for working with **TCP, UDP, IP addressing, subnet masking, and network scanning**.
 
 ## 📂 Project Structure
 
